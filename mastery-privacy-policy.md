@@ -28,7 +28,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdFOvTqMsKMBjk0ds_eYGKuMGCMRASw4BN_WAPm
 <br>
 <br>
 
-# Politique de confidentialité de «Calculateur de micro-ondes» 
+# Politique de confidentialité de «Mastery - Record d'expérience» 
 
 ## 1. Traitement des informations de l'utilisateur
 Cette application utilise Google AdMob pour la diffusion des annonces et Google Firebase Analytics pour l'analyse de l'utilisation.<br>
@@ -43,7 +43,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdFOvTqMsKMBjk0ds_eYGKuMGCMRASw4BN_WAPm
 <br>
 <br>
 
-# "微波炉时间计算器"的隐私政策
+# "Mastery - 经验记录"的隐私政策
 
 ## 1. 对用户信息的处理
 本应用程序使用谷歌AdMob进行广告服务，并使用谷歌Firebase Analytics进行使用分析。
