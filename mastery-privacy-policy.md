@@ -13,7 +13,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdFOvTqMsKMBjk0ds_eYGKuMGCMRASw4BN_WAPm
 <br>
 <br>
 
-# 「Mastery - 経験値トラッカー」のプライバシー ポリシー
+# 「Mastery - 経験値記録アプリ」のプライバシー ポリシー
 
 ## 1. 利用者情報の取り扱い
 本アプリでは、広告配信のためにGoogle AdMob、利用状況解析のためにGoogle Firebase Analyticsを使用する場合があります。<br>
